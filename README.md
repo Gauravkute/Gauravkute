@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey , I am Gaurav Kute <br>I am currently pursuing B.tech in IT <br>I goal is to be data scientist<br>Language : Python , HTML , CSS , Javascript<br>Database : MySQL , MongoDB<br>Tool : Git & Github , VSCode
+Hey , I am Gaurav Kute <br>I am currently pursuing B.tech in IT <br>My goal is to be data scientist<br>Language : Python , HTML , CSS , Javascript<br>Database : MySQL , MongoDB<br>Tool : Git & Github , VSCode
 
 
 ## 🌐 Socials:
